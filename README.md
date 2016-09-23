@@ -5,6 +5,6 @@ Project Name: Soybean Variety Selection
 Students: Jingzhuo Xu (jx255)
           Xueqi Zhao (xz485)
 
-The objective of our project is to analyze the key attributes making a successful movie before it is released in a theater, and provide suggestions to film makers as well as potential customers for better resource allocation and decision making.
+The objective of our project is to analyze the key attributes of elite soybean and select the correct varieties to commercialize. This is significant to the sponsoring company Sygenta, in that the result will help them utilize the resources more efficiently, better meet customers' expectations, and finally echance profits.
 
-The full project proposal can be found in "Proposal.pdf"
+The full project proposal can be found in "Project_Proposal.pdf"
