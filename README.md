@@ -1,14 +1,10 @@
-# Class project for ORIE 4741, Learning With Big Messy Data, at Cornell University
+ORIE 4741 Learning With Big Messy Data Class Project
 
-Analysis of NBA Data: Predicting shots 
+Project Name:
 
+Students: Jingzhuo Xu (jx255)
+          Xueqi Zhao (xz485)
 
-
-
-Our goal is analyze NBA player data and identify the best situations for taking a shot. We plan on answering the following questions:
-
-  1. Whether or not a player will make their shot based on their current situation (distance from the hoop, game period, distance from defender, etc.)
-
-  2. What are the optimal characteristics for making a shot
+The objective of our project is to analyze the key attributes making a successful movie before it is released in a theater.
 
 The full project proposal can be found in "Proposal.pdf"
