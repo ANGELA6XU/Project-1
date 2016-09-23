@@ -1,6 +1,6 @@
 ORIE 4741 Learning With Big Messy Data Class Project
 
-Project Name: What make a great movie
+Project Name: Soybean Variety Selection
 
 Students: Jingzhuo Xu (jx255)
           Xueqi Zhao (xz485)
